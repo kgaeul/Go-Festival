@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  이미지는 추후에 변경하시거나 삭제하시면 됩니다.<br /> 보통 메인 이미지를 올려놓습니다.<br />
+  기가막히조의 메인페이지 입니다!
   <img src="./readme-static/img/메인페이지.PNG">
   <br>
 </p>
@@ -17,10 +17,27 @@
 </p>
 
 <p align="center">
-여러분이 만든 프로젝트를 캡쳐하거나 <strong>GIF</strong> 화면으로 만들어 <br />
-상대방이 프로젝트를 예시로 한 번에 볼수 있게 만들어주는게 좋습니다.<br />
-또는 배포하여 프로젝트 사이트를 올려도 좋습니다.<br />
-<strong>GIF</strong> 또는 <strong>Images</strong>
+<img src="./readme-static/img/메인페이지.PNG">
+  <br>
+  <p>GO, FESTIVAL 메인페이지입니다.</p>
+  <img src="./readme-static/img/게시글 작성.PNG">
+  <br>
+   <p>GO, FESTIVAL 행사글 작성 페이지입니다.</p>
+  <img src="./readme-static/img/게시판.PNG">
+  <br>
+   <p>GO, FESTIVAL 리뷰 게시판 페이지입니다.</p>
+  <img src="./readme-static/img/예약조회.PNG">
+  <br>
+   <p>GO, FESTIVAL 예약조회 페이지입니다.</p>
+  <img src="./readme-static/img/댓글 상세내용.PNG">
+  <br>
+   <p>GO, FESTIVAL 리뷰 상세내용 페이지입니다.</p>
+  <img src="./readme-static/img/댓글 삭제.PNG">
+  <br>
+   <p>GO, FESTIVAL 댓글 삭제 확인 페이지입니다.</p>
+  <img src="./readme-static/img/리뷰 작성하기.PNG">
+  <br>
+  <p>GO, FESTIVAL 리뷰 작성 페이지입니다.</p>
 </p>
 
 <br>
