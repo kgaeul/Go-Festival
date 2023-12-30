@@ -22,6 +22,8 @@
 
 </p>
 
+<a href="https://drive.google.com/file/d/1mG-G1pvNusgcNeo4dG5fRqusZKPWVOaS/view?usp=sharing" >Go, festival 란?</a>
+
 <p align="center">
 <img src="./readme-static/img/메인페이지.PNG">
   <br>
