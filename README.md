@@ -1,7 +1,12 @@
 
 <div align="center">
+<img src="./readme-static/img/로고1.png" width="400px">
+
 
 # GO,FESTIVAL
+
+
+
 </div>
 
 <p align="center">
@@ -22,30 +27,31 @@
 
 </p>
 
-<a href="https://drive.google.com/file/d/1mG-G1pvNusgcNeo4dG5fRqusZKPWVOaS/view?usp=sharing" >Go, festival 란?</a>
-
+<a href="https://drive.google.com/file/d/1mG-G1pvNusgcNeo4dG5fRqusZKPWVOaS/view?usp=sharing" >Go, festival 소개 보러가기</a>
+  <br>
+  
+<hr>
 <p align="center">
 <img src="./readme-static/img/메인페이지.PNG">
-  <br>
-  <p align="center">GO, FESTIVAL 메인페이지입니다.</p>
-  <img src="./readme-static/img/게시글 작성.PNG">
-  <br >
-   <p align="center">GO, FESTIVAL 행사글 작성 페이지입니다.</p>
-  <img src="./readme-static/img/게시판.PNG">
-  <br>
-   <p align="center">GO, FESTIVAL 리뷰 게시판 페이지입니다.</p>
-  <img src="./readme-static/img/예약조회.PNG">
-  <br>
-   <p align="center">GO, FESTIVAL 예약조회 페이지입니다.</p>
-  <img src="./readme-static/img/댓글 상세내용.PNG">
-  <br>
-   <p align="center">GO, FESTIVAL 리뷰 상세내용 페이지입니다.</p>
-  <img src="./readme-static/img/댓글 삭제.PNG">
-  <br>
-   <p align="center">GO, FESTIVAL 댓글 삭제 확인 페이지입니다.</p>
-  <img src="./readme-static/img/리뷰 작성하기.PNG">
-  <br>
-  <p align="center">GO, FESTIVAL 리뷰 작성 페이지입니다.</p>
+<p align="center">GO, FESTIVAL 메인페이지입니다.</p>
+
+<hr>
+ <img src="./readme-static/img/리뷰 작성하기.PNG">
+ <p align="center">GO, FESTIVAL 리뷰 작성 페이지입니다.</p>
+  <hr>
+
+   <img src="./readme-static/img/댓글 상세내용.PNG">
+  <p align="center">GO, FESTIVAL 리뷰 상세 페이지입니다.</p>
+  <hr>
+
+  <img src="./readme-static/img/리뷰 수정하기.PNG">
+  <p align="center">GO, FESTIVAL 리뷰 수정 페이지입니다.</p>
+  <hr>
+
+  <img src="./readme-static/img/리뷰삭제.PNG">
+  <p align="center">GO, FESTIVAL 리뷰 삭제 페이지입니다.</p>
+  <hr>
+  
 </p>
 
 <br>
